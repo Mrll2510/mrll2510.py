@@ -1,0 +1,23 @@
+# Loja Virtual V1.0
+
+Meu primeiro projeto em Python.
+
+## Funcionalidades
+
+- Login
+- Senha
+- Limite de tentativas
+- Menu interativo
+- Visualizar produtos
+- Comprar produto
+- Ver carrinho
+- Remover produto
+- Encerrar programa
+
+## Tecnologias
+
+- Python 3
+
+## Objetivo
+
+Praticar lógica de programação utilizando condicionais, laços de repetição e menus.
